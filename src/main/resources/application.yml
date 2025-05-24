@@ -33,5 +33,5 @@ api:
 
 jwt:
   expiration: 2592000 #30days of expiration
-  secretKey: bfec1f37222dd3ccb0a53aa28413bba6dd7840729c8e504eebccea5f5a9a5d99
+  secretKey:
 
